@@ -1,7 +1,4 @@
-"""
-Student : Victor Perez Cester
-Registration Number : 1900232
-"""
+
 from dh import DiffieHellman
 from rc4 import RC4
 from definitions import DATA_DIR,OUT_DIR
